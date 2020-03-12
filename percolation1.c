@@ -1,5 +1,4 @@
 /*=========================================================/
-
 /  Generates random graphs and invokes analysis routines   /
 /  to determine the largest cluster of connected vertices  /
 /  and the overall number of clusters.                     /
