@@ -1,11 +1,8 @@
 /*=========================================================/
-/  C code (OpenMP) for PX425 assignment 3 2019             /
+
 /  Generates random graphs and invokes analysis routines   /
 /  to determine the largest cluster of connected vertices  /
 /  and the overall number of clusters.                     /
-/                                                          /
-/  Original code created by D.Quigley - November 2014      /
-/  Updated by Nicholas Hine - October 2019                 /
 /=========================================================*/
 #include <stdlib.h>
 #include <stdio.h>
